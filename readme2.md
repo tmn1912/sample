@@ -2,4 +2,4 @@
 This is a sample readme file for our Github.
 * tmn
 * zhm
-![Our Link](https://octodex.github.com/hulatocat.gif)
+![Our Link](https://octodex.github.com/images/yaktocat.png)
